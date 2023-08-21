@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TestBoolean",
+            "request": "launch",
+            "mainClass": "TestBoolean",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestChar",
+            "request": "launch",
+            "mainClass": "TestChar",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestIntDouble",
+            "request": "launch",
+            "mainClass": "TestIntDouble",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestOperator",
+            "request": "launch",
+            "mainClass": "TestOperator",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestOption",
+            "request": "launch",
+            "mainClass": "TestOption",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestSystemIn",
+            "request": "launch",
+            "mainClass": "TestSystemIn",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestTypeConvert",
+            "request": "launch",
+            "mainClass": "TestTypeConvert",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestVariable",
+            "request": "launch",
+            "mainClass": "TestVariable",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "Java_Start_53fca59"
+        }
+    ]
+}

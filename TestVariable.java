@@ -1,4 +1,4 @@
-public class Test01 {
+public class TestVariable {
 	// Java 标识符以及变量的本质
 	public static void main(String[] args) {
 		// 以下为合规的标识符
