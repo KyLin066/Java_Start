@@ -84,14 +84,14 @@ public class TestOption {
         }
 
         // 买车情况
-        String car = "宝马";
+        String car = "奔驰";
 
         switch (car) {
-            case "宝马":
-                System.out.println("宝马是一款豪华汽车，它拥有优秀的性能和舒适的驾驶体验。");
-                break;
             case "奔驰":
                 System.out.println("奔驰是一款经典汽车，它以其优雅的外观和卓越的性能而闻名。");
+                break;
+            case "宝马":
+                System.out.println("宝马是一款豪华汽车，它拥有优秀的性能和舒适的驾驶体验。");
                 break;
             case "奥迪":
                 System.out.println("奥迪是一款高端汽车，它以其先进的技术和出色的性能而受到欢迎。");
