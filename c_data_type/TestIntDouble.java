@@ -1,3 +1,5 @@
+package c_data_type;
+
 public class TestIntDouble {
     // Java基本数据类型之整型和浮点型
     public static void main(String[] args) {
@@ -15,10 +17,10 @@ public class TestIntDouble {
         int t3 = 0x65; // 十六进制
         int t4 = 0b01000001; // 二进制
 
-        System.out.println("十进制："+t1);
-        System.out.println("八进制："+t2);
-        System.out.println("十六进制："+t3);
-        System.out.println("二进制："+t4);
+        System.out.println("十进制：" + t1);
+        System.out.println("八进制：" + t2);
+        System.out.println("十六进制：" + t3);
+        System.out.println("二进制：" + t4);
 
         // 测试浮点数
         double d1 = 3.14;
@@ -26,9 +28,9 @@ public class TestIntDouble {
 
         double d2 = 314E-2; // 科学计数法：314*10^(-2)
 
-        System.out.println("double型："+d1);
-        System.out.println("float型："+f1);
-        System.out.println("科学计数法："+d2);
+        System.out.println("double型：" + d1);
+        System.out.println("float型：" + f1);
+        System.out.println("科学计数法：" + d2);
 
         // 浮点数是不精确的，用于比较要小心
         // 如果要使用精确的运算，使用BigDecimal类

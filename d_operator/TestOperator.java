@@ -1,3 +1,5 @@
+package d_operator;
+
 public class TestOperator {
     public static void main(String[] args) {
         System.out.println("======算术运算符======");
@@ -71,7 +73,7 @@ public class TestOperator {
         System.out.println("======条件运算符======");
         int y1 = 300;
         int y2 = 40;
-        int min = y1<y2?y1:y2; // 总是返回y1和y2比较小的值
+        int min = y1 < y2 ? y1 : y2; // 总是返回y1和y2比较小的值
 
         System.out.println(min);
     }

@@ -1,3 +1,5 @@
+package b_variable;
+
 public class TestVariable {
 	// Java 标识符以及变量的本质
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package f_keypad_input;
+
 import java.util.Scanner;
 
 public class TestSystemIn {

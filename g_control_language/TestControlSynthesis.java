@@ -1,3 +1,5 @@
+package g_control_language;
+
 public class TestControlSynthesis {
     // 控制语句综合练习
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package g_control_language;
+
 public class TestBreakContinue {
     // Java的Break和Continue语句综合练习
     public static void main(String[] args) {
@@ -41,7 +43,7 @@ public class TestBreakContinue {
                 tortoise++;
             }
         }
-        
+
         System.out.println("一个共抓到了" + total + "只动物");
         System.out.println("一个共抓到了" + cat + "只小猫");
         System.out.println("一个共抓到了" + dog + "只小狗");

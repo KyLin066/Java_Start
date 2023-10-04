@@ -1,3 +1,5 @@
+package e_type_convert;
+
 public class TestTypeConvert {
     // 测试基本数据类型的转换（自动转换、强制转换）
     public static void main(String[] args) {

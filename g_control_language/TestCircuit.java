@@ -1,3 +1,5 @@
+package g_control_language;
+
 public class TestCircuit {
     // 测试循环结构
     public static void main(String[] args) {

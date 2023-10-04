@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "h_method.Calculator",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestMethod",
+            "request": "launch",
+            "mainClass": "h_method.TestMethod",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestOperator",
+            "request": "launch",
+            "mainClass": "d_operator.TestOperator",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestIntDouble",
+            "request": "launch",
+            "mainClass": "c_data_type.TestIntDouble",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestVariable",
+            "request": "launch",
+            "mainClass": "b_variable.TestVariable",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "TestIdentifier",
+            "request": "launch",
+            "mainClass": "b_identifier_variable.TestIdentifier",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "a_hello_world.Welcome",
+            "projectName": "Java_Start_53fca59"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -1,3 +1,4 @@
+package g_control_language;
 
 /*
  * 年薪计算小软件
