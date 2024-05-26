@@ -1,4 +1,4 @@
-package k_object;
+package j_inherit;
 
 /**
  * 测试Object类的用法
